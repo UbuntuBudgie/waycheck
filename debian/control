@@ -1,0 +1,28 @@
+Source: waycheck
+Section: misc
+Priority: optional
+Maintainer: David Mohammed <fossfreedom@ubuntu.com>
+Homepage: https://gitlab.freedesktop.org/serebit/waycheck
+Build-Depends:
+ debhelper-compat (= 13),
+ meson,
+ pkgconf,
+ qtchooser,
+ qt6-base-dev,
+ qt6-wayland-dev
+Standards-Version: 4.7.0
+Vcs-Browser: https://github.com/ubuntubudgie/waycheck/tree/debian
+Vcs-Git: https://github.com/ubuntubudgie/waycheck.git -b debian
+Rules-Requires-Root: no
+
+Package: waycheck
+Architecture: any
+Depends:
+ ${misc:Depends},
+ ${shlibs:Depends}
+Description: Display all Wayland protocols that your compositor supports
+ Waycheck is a simple Qt6 application that displays all of the Wayland
+ protocols that your compositor supports, and all of the protocols that it
+ doesn't support. It can be used to compare protocol support between
+ compositors, or if you're working on your own compositor, to keep track
+ of which protocols you still need to implement.

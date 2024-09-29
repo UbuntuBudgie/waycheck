@@ -1,0 +1,61 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: waycheck
+Upstream-Contact: Campbell Jones <serebit@archlinux.org>
+Source: https://gitlab.freedesktop.org/serebit/waycheck
+
+Files: *
+Copyright: 2023-2024, Campbell Jones <serebit@archlinux.org>
+License: Apache-2.0
+
+Files: resources/dev.serebit.Waycheck.metainfo.xml
+Copyright: 2023-2024, Campbell Jones <serebit@archlinux.org>
+License: CC0-1.0
+
+Files: debian/*
+Copyright: 2024, David Mohammed <foss.freedom@gmail.com>
+License: GPL-2+
+
+License: Apache-2.0
+ This software is Copyright (c) Campbell Jones <serebit@archlinux.org>
+ .
+ This is free software, licensed under:
+ .
+   The Apache License, Version 2.0, January 2004
+ .
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+     http://www.apache.org/licenses/LICENSE-2.0
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS"BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ On Debian systems, the complete text of the Apache License,
+ Version 2.0 can be found in '/usr/share/common-licenses/Apache-2.0'.
+
+License: CC0-1.0
+ .
+ X. Ample has dedicated the work to the Commons by waiving all of his
+ or her rights to the work worldwide under copyright law and all related or
+ neighboring legal rights he or she had in the work, to the extent allowable by
+ law.
+ .
+ Works under CC0 do not require attribution. When citing the work, you should
+ not imply endorsement by the author.
+ .
+ .
+ To the extent possible under law, the author(s) have dedicated all
+ copyright and related and neighboring rights to this software to the public
+ domain worldwide. This software is distributed without any warranty.
+ On Debian systems, the complete text of the CC0 license, version 1.0,
+ can be found in /usr/share/common-licenses/CC0-1.0.
+
+License: GPL-2+
+ This program is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; version 2 dated June, 1991, or (at
+ your option) any later version.
+ .
+ On Debian systems, the complete text of version 2 of the GNU General
+ Public License can be found in '/usr/share/common-licenses/GPL-2'.
