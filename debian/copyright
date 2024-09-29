@@ -7,7 +7,8 @@ Files: *
 Copyright: 2023-2024, Campbell Jones <serebit@archlinux.org>
 License: Apache-2.0
 
-Files: resources/dev.serebit.Waycheck.metainfo.xml
+Files: resources/dev.serebit.Waycheck.svg
+ resources/dev.serebit.Waycheck.metainfo.xml
 Copyright: 2023-2024, Campbell Jones <serebit@archlinux.org>
 License: CC0-1.0
 
