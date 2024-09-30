@@ -34,18 +34,12 @@ License: Apache-2.0
  Version 2.0 can be found in '/usr/share/common-licenses/Apache-2.0'.
 
 License: CC0-1.0
+ To the extent possible under law, the author(s) have dedicated all copyright
+ and related and neighboring rights to this software to the public domain
+ worldwide. This software is distributed without any warranty.
  .
- X. Ample has dedicated the work to the Commons by waiving all of his
- or her rights to the work worldwide under copyright law and all related or
- neighboring legal rights he or she had in the work, to the extent allowable by
- law.
+ You should have received a copy of the CC0 Public Domain Dedication along with
+ this software. If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
  .
- Works under CC0 do not require attribution. When citing the work, you should
- not imply endorsement by the author.
- .
- .
- To the extent possible under law, the author(s) have dedicated all
- copyright and related and neighboring rights to this software to the public
- domain worldwide. This software is distributed without any warranty.
- On Debian systems, the complete text of the CC0 license, version 1.0,
- can be found in /usr/share/common-licenses/CC0-1.0.
+ On Debian systems, the complete text of the CC0 1.0 Universal license can be
+ found in "/usr/share/common-licenses/CC0-1.0".
