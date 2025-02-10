@@ -4,7 +4,7 @@ Upstream-Contact: Campbell Jones <serebit@archlinux.org>
 Source: https://gitlab.freedesktop.org/serebit/waycheck
 
 Files: *
-Copyright: 2023-2024, Campbell Jones <serebit@archlinux.org>
+Copyright: 2023-2025, Campbell Jones <serebit@archlinux.org>
 License: Apache-2.0
 
 Files: resources/dev.serebit.Waycheck.svg
@@ -13,7 +13,7 @@ Copyright: 2023-2024, Campbell Jones <serebit@archlinux.org>
 License: CC0-1.0
 
 Files: debian/*
-Copyright: 2024, David Mohammed <fossfreedom@ubuntu.com>
+Copyright: 2024-2025, David Mohammed <fossfreedom@ubuntu.com>
 License: Apache-2.0
 
 License: Apache-2.0

@@ -1,3 +1,14 @@
+waycheck (1.5.0-1) unstable; urgency=medium
+
+  * New upstream release
+    - Update upstream protocol list to v1.39
+    - Add detection of COSMIC overlap notify protocol and recognise
+      COSMIC protocols correctly
+    - Add frog protocols
+    - Add KDE external brightness protocol
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Mon, 10 Feb 2025 22:29:17 +0000
+
 waycheck (1.3.1-1) unstable; urgency=medium
 
   * Initial release. (Closes: #1080960)
