@@ -1,3 +1,18 @@
+waycheck (1.6.0-1) unstable; urgency=medium
+
+  * New upstream release
+    - Update upstream protocol list to v1.41
+    - Add COSMIC A11y and AT-SPI protocols
+    - Add ChromeOS aura-output-management protocol
+    - Add Gamescope reshade protocol
+    - Add Treeland protocols
+    - Correct identifiers of KDE virtual desktop and external brightness
+      protocols
+    - Expand default window width to show all tabs
+    - Become compliant with REUSE v3.3
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Wed, 19 Feb 2025 19:45:59 +0000
+
 waycheck (1.5.0-1) unstable; urgency=medium
 
   * New upstream release
@@ -6,6 +21,8 @@ waycheck (1.5.0-1) unstable; urgency=medium
       COSMIC protocols correctly
     - Add frog protocols
     - Add KDE external brightness protocol
+  * Packaging changes
+    - d/copyright update the copyright year
 
  -- David Mohammed <fossfreedom@ubuntu.com>  Mon, 10 Feb 2025 22:29:17 +0000
 
