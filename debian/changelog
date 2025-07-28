@@ -1,3 +1,21 @@
+waycheck (1.7.0-1) unstable; urgency=medium
+
+  * New upstream release
+    - Add Phosh's protocols
+    - Update upstream protocols to v1.45
+    - Make Compositor text mouse-selectable
+
+  * Bug Fixes
+    - Fix text-input-unstable-v3 detection
+    - Move unknown compositor tooltip to a dedicated button
+    - Rename 'Treeland' to 'Deepin'
+    - (a11y) Resolve table-related tab navigation issues
+
+  * Package Changes:
+    - d/control add dependency on qt6-wayland (Closes: #1110035)
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Mon, 28 Jul 2025 13:13:52 -0400
+
 waycheck (1.6.0-1) unstable; urgency=medium
 
   * New upstream release

@@ -18,6 +18,7 @@ Rules-Requires-Root: no
 Package: waycheck
 Architecture: any
 Depends:
+ qt6-wayland,
  ${misc:Depends},
  ${shlibs:Depends}
 Description: Display all Wayland protocols that your compositor supports
